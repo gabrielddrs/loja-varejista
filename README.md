@@ -17,4 +17,4 @@
 
 ### Imagens do resultados:
 
-![Captura de tela 2023-05-13 230920](https://github.com/gabrielddrs/loja-varejista/assets/105561645/c7cad766-6944-4a8f-8dc4-dd1b8f3fb585)
+![Captura de tela 2023-05-13 230920](https://github.com/gabrielddrs/loja-varejista/assets/105561645/6c314129-02d1-4b31-8104-3acd695db67a)
